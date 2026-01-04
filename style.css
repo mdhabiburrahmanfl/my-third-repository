@@ -96,7 +96,7 @@ a {
 .list:hover {
     font-weight: bold;
     border: 1px solid rgba(255, 255, 255, 0.150);
-    background: rgba(255, 255, 255, 0.400);
+    background: rgba(255, 255, 255, 0.3);
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.250);
 }
 
